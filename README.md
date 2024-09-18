@@ -65,7 +65,7 @@ Here’s a screenshot of the upload form:
 
 
 
-2. Set up a local PHP environment (e.g., XAMPP, MAMP) or upload the `hello.php` file to a PHP-supported web server.
+2. Set up a local PHP environment (e.g., XAMPP, MAMP) or upload the `fahim.php` file to a PHP-supported web server.
 
 3. Access the `fahim.php` file via your web browser and start uploading files.
 
