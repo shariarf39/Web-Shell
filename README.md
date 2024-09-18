@@ -57,9 +57,9 @@ Here’s a screenshot of the upload form:
    git clone https://github.com/shariarf39/Web-Shell.git
     ```
 
-2. Upload the `index.php` file to a PHP-supported web server or run it locally in a PHP environment (e.g., XAMPP, MAMP).
+2. Upload the `fahim.php` file to a PHP-supported web server or run it locally in a PHP environment (e.g., XAMPP, MAMP).
 
-3. Access the `index.php` file via your web browser and upload an `.html` file.
+3. Access the `fahim.php` file via your web browser and upload an `.html` file.
 
 ## Folder Structure
 
