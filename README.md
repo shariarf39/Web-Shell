@@ -16,7 +16,7 @@ This repository contains a PHP file upload form that allows users to select and 
 
 Below is a screenshot of the file upload form in action:
 
-![File Upload Form](Screenshot (92).png.png)
+![File Upload Form](./Screenshot (92).png.png)
 
 > **Note:** Ensure the image is placed in the `Screenshot (92).png` directory of your repository.
 
