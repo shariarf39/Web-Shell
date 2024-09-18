@@ -69,5 +69,9 @@ Here’s a screenshot of the upload form:
 
 3. Access the `fahim.php` file via your web browser and start uploading files.
 
-## Folder Structure
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 
