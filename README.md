@@ -15,8 +15,8 @@ This repository contains a PHP file upload form that allows users to select and 
 ## Screenshot
 
 Below is a screenshot of the file upload form in action:
+<img style="height: 100; width: 500;" src="Screenshot (92).png.png" alt="">
 
-![File Upload Form](./Screenshot (92).png.png)
 
 > **Note:** Ensure the image is placed in the `Screenshot (92).png` directory of your repository.
 
@@ -24,8 +24,46 @@ Below is a screenshot of the file upload form in action:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/php-file-upload-form.git
+    git clone https://github.com/shariarf39/Web-Shell.git
     ```
+
+
+# HTML File Upload Form
+
+This repository contains a simple PHP form that allows users to upload `.html` files. The form only accepts files with the `.html` extension and uploads them to the same directory where the script resides.
+
+## File Overview
+
+- **index.php**: The main file that handles the HTML file upload process.
+
+## Features
+
+- **Single File Upload**: The form allows users to upload a single `.html` file.
+- **File Validation**: Only `.html` files are allowed to be uploaded.
+- **Feedback on Upload**: Displays success or failure messages after the file upload.
+
+## Screenshot
+
+Here’s a screenshot of the upload form:
+
+
+
+> **Note:** Make sure to place the image in the `/images` directory of your repository.
+
+## How to Use
+
+1. Clone this repository:
+    ```bash
+   git clone https://github.com/shariarf39/Web-Shell.git
+    ```
+
+2. Upload the `index.php` file to a PHP-supported web server or run it locally in a PHP environment (e.g., XAMPP, MAMP).
+
+3. Access the `index.php` file via your web browser and upload an `.html` file.
+
+## Folder Structure
+
+
 
 2. Set up a local PHP environment (e.g., XAMPP, MAMP) or upload the `hello.php` file to a PHP-supported web server.
 
